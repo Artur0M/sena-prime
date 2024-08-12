@@ -1,0 +1,13 @@
+{   
+    "peliculas":[
+        {
+        "titulo": "DUNE",
+        "descripcion": "El viaje de un héroe mítico y cargado de emociones, Duna cuenta la historia de Paul Atreides, un joven brillante y talentoso con un gran destino más allá de su comprensión, que debe viajar al planeta más peligroso del universo para asegurar el futuro de su familia y su gente. A medida que las fuerzas malévolas estallan en un conflicto por el suministro exclusivo del planeta del recurso más preciado que existe, un bien capaz de liberar el mayor potencial de la humanidad, solo sobrevivirán aquellos que puedan conquistar su miedo.",
+        "portada": "https://es.web.img3.acsta.net/pictures/21/08/25/14/35/3349802.jpg",
+        "banner": "https://i.blogs.es/ba23a9/thumb-1920-1166940/1366_2000.jpg",
+        "video": "https://youtu.be/TTgk_iT8Uts?si=GNC0tMTn2fVy1VCy",
+        "año": 2021,
+        "id": "1"
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+[
+  {
+    "titulo": "DUNE",
+    "descripcion": "El viaje de un héroe mítico y cargado de emociones, Duna cuenta la historia de Paul Atreides, un joven brillante y talentoso con un gran destino más allá de su comprensión, que debe viajar al planeta más peligroso del universo para asegurar el futuro de su familia y su gente. A medida que las fuerzas malévolas estallan en un conflicto por el suministro exclusivo del planeta del recurso más preciado que existe, un bien capaz de liberar el mayor potencial de la humanidad, solo sobrevivirán aquellos que puedan conquistar su miedo.",
+    "portada": "https://es.web.img3.acsta.net/pictures/21/08/25/14/35/3349802.jpg",
+    "video": "https://youtu.be/TTgk_iT8Uts?si=GNC0tMTn2fVy1VCy",
+    "categoria": "CIENCIA FICCIÓN",
+    "año": 2021,
+    "id": 1
+  },
+  {
+    "titulo": "Star Wars: La Venganza De Los Sith",
+    "descripcion": "Años después del inicio de las Guerras Clon, los nobles Caballeros Jedi llevan a un gran ejército clon hacia una batalla de toda la galaxia contra los separatistas. Cuando el siniestro Sith desvela un antiguo complot para gobernar la galaxia, la República se desmorona y de sus cenizas se eleva el malvado Imperio Galáctico. Anakin Skywalker es seducido por el lado oscuro de la Fuerza para convertirse en el nuevo aprendiz del Emperador - Darth Vader",
+    "portada": "https://play-lh.googleusercontent.com/IDBjZxeTN3xiuVuYVNBaJe5TzPcq3V8YS2E49Q-neQlMZRHkK1Imt_VkTdPQY8s4GNVSyw",
+    "video": "https://youtu.be/kqkfjBKmWc4?si=XrrgHA3LXBz1niHI",
+    "categoria": "CIENCIA FICCIÓN",
+    "año": 2005,
+    "id": 2
+  },
+  {
+    "titulo": "Inception",
+    "descripcion": "Dom Cobb es un ladrón con la rara habilidad de robar secretos valiosos desde las profundidades del subconsciente durante el estado de sueño, cuando la mente está más vulnerable. La habilidad poco común de Cobb lo ha hecho un codiciado jugador en este nuevo y traicionero mundo del espionaje corporativo, pero también lo ha convertido en un fugitivo internacional y le ha costado todo lo que ha amado.",
+    "portada": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_.jpg",
+    "video": "https://youtu.be/YoHD9XEInc0?si=6vyKzttdEgwYxnIR",
+    "categoria": "CIENCIA FICCIÓN",
+    "año": 2010,
+    "id": 3
+  },
+  {
+    "titulo": "The Matrix",
+    "descripcion": "Thomas Anderson, un programador informático por el día y hacker conocido como Neo por la noche, se entera de que la realidad como la conocemos es una simulación artificial creada por máquinas inteligentes para subyugar a la humanidad. Con la ayuda de Morfeo y Trinity, Neo comienza su búsqueda para descubrir la verdad y liberar a la humanidad del control de las máquinas.",
+    "portada": "https://m.media-amazon.com/images/I/51EG732BV3L._AC_.jpg",
+    "video": "https://youtu.be/vKQi3bBA1y8?si=vbweIb-uIOV3mkG7",
+    "categoria": "CIENCIA FICCIÓN",
+    "año": 1999,
+    "id": 4
+  },
+  {
+    "titulo": "Interstellar",
+    "descripcion": "En un futuro cercano, la Tierra se ha vuelto inhabitable. Un grupo de exploradores liderados por el piloto Cooper y la científica Amelia se embarcan en una misión para viajar a través de un agujero de gusano cerca de Saturno en busca de un nuevo hogar para la humanidad.",
+    "portada": "https://m.media-amazon.com/images/I/91kFYg4fX3L._AC_SL1500_.jpg",
+    "video": "https://youtu.be/JPWTujBK1xY?si=wOp20IM--p5OCTLj",
+    "categoria": "CIENCIA FICCIÓN",
+    "año": 2014,
+    "id": 5
+  },
+  {
+    "titulo": "Guardianes de la Galaxia",
+    "descripcion": "Un grupo de criminales intergalácticos deben unir sus fuerzas para detener a un guerrero fanático con planes para purgar el universo.",
+    "portada": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh30jfLyR9Pawvz63sLCVfdOXlM7qkDId4Xw&s",
+    "video": "https://youtu.be/qdIuXCfUKM8?si=w8AGaFHUZYdOKGvc",
+    "categoria": "CIENCIA FICCIÓN",
+    "año": 2014,
+    "id": 6
+  },
+  {
+    "titulo": "De Vuelta al Futuro",
+    "descripcion": "Un adolescente llamado Marty McFly es enviado accidentalmente 30 años al pasado en un DeLorean convertido en máquina del tiempo, inventado por su amigo el Dr. Emmett Brown. Marty debe asegurarse de que sus jóvenes padres se enamoren o corre el riesgo de no existir.",
+    "portada": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSARwCFB6M36a-YEdVSHKjbJjAiic23UyYlvA&s",
+    "video": "https://youtu.be/qvsgGtivCgs?si=e9jWKjSci5U0-0oK",
+    "categoria": "CIENCIA FICCIÓN",
+    "año": 1985,
+    "id": 7
+  }
+]
+

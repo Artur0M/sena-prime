@@ -1,0 +1,65 @@
+[
+    {
+      "titulo": "Toy Story",
+      "descripcion": "Un juguete vaquero que se siente amenazado por la llegada de un nuevo astronauta de juguete debe aprender a compartir la atención de su dueño con su nuevo rival.",
+      "portada": "https://es.web.img3.acsta.net/pictures/14/03/17/10/20/509771.jpg",
+      "video": "https://youtu.be/v-PjgYDrg70?si=0thSz9BGRKR3nttH",
+      "categoria": "ANIMADA",
+      "año": 1995,
+      "id": 1
+    },
+    {
+      "titulo": "Buscando a Nemo",
+      "descripcion": "Un pez payaso llamado Marlin se embarca en un viaje épico para encontrar a su hijo Nemo después de que este sea capturado en la Gran Barrera de Coral.",
+      "portada": "https://es.web.img3.acsta.net/pictures/14/02/13/11/08/054573.jpg",
+      "video": "https://youtu.be/ba4TwyaNhSQ?si=qdAcEWnlF-YC5acP",
+      "categoria": "ANIMADA",
+      "año": 2003,
+      "id": 2
+    },
+    {
+      "titulo": "Shrek",
+      "descripcion": "Un ogro llamado Shrek y su burro amigo Donkey se embarcan en una misión para rescatar a la princesa Fiona de un dragón y llevarla de regreso al malvado Lord Farquaad.",
+      "portada": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbucbkcasvOtVZT9YvrjaFhEiYHpTukHZJsA&s",
+      "video": "https://youtu.be/CwXOrWvPBPk?si=9nfF24GqfIZMIeH0",
+      "categoria": "ANIMADA",
+      "año": 2001,
+      "id": 3
+    },
+    {
+      "titulo": "Los Increibles",
+      "descripcion": "Una familia de superhéroes se ve obligada a retomar sus trajes y habilidades después de que años de tratar de llevar una vida normal se vean interrumpidos por un nuevo villano.",
+      "portada": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0fSc2r6awPGMXpd8vtweLKP0O6MwswWm7iQ&s",
+      "video": "https://youtu.be/-UaGUdNJdRQ?si=hzRx-65NK2XSNVGQ",
+      "categoria": "ANIMADA",
+      "año": 2004,
+      "id": 4
+    },
+    {
+      "titulo": "Monsters, Inc.",
+      "descripcion": "En Monstropolis, dos monstruos trabajan en una fábrica de sustos donde los gritos de los niños humanos se convierten en energía para su mundo. Las cosas se complican cuando una niña humana entra en su mundo.",
+      "portada": "https://mx.web.img3.acsta.net/pictures/19/06/17/16/48/5870818.jpg",
+      "video": "https://youtu.be/6tCxnHCqqxg?si=kJ_mvpuEyMVs1Dae",
+      "categoria": "ANIMADA",
+      "año": 2001,
+      "id": 5
+    },
+    {
+      "titulo": "Intensamente",
+      "descripcion": "Una niña llamada Riley y sus emociones: Alegría, Tristeza, Miedo, Desagrado e Ira, intentan guiarla a través de una vida complicada después de que se mude a una nueva ciudad.",
+      "portada": "https://i.pinimg.com/736x/00/de/25/00de250d1b73dc0a4c0f25f0fceadaae.jpg",
+      "video": "https://youtu.be/_DTnvFdFW14?si=DYZbQz9705wImoDI",
+      "categoria": "ANIMADA",
+      "año": 2015,
+      "id": 6
+    },
+    {
+      "titulo": "Mi Villano Favorito",
+      "descripcion": "Un supervillano llamado Gru planea robar la luna, pero su plan cambia cuando se encuentra cuidando a tres niñas huérfanas.",
+      "portada": "https://play-lh.googleusercontent.com/HihhmPVUKMThE7Ik3NwRG33NDfhvSGTsljZUYHNMJOJ0dYcHwrhde6H0EhcWDokCBc30rQ",
+      "video": "https://youtu.be/B7S4KodYFCM?si=ut4LxgG4ufBK3YWw",
+      "categoria": "ANIMADA",
+      "año": 2010,
+      "id": 7
+    }
+]
