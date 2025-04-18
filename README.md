@@ -54,7 +54,7 @@ src/ <br>
 
 1. **Clonar el repositorio**:
    ```bash
-   git clone https://github.com/tu-usuario/sena-prime.git
+   git clone https://github.com/Artur0M/sena-prime.git
    cd sena-prime
 
 2. **Instalar dependencias**:
