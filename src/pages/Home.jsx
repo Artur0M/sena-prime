@@ -1,12 +1,13 @@
+import { Link } from "react-router-dom";
 import styled from "styled-components";
-import Gallery from "../components/Gallery";
 import peliculas from "../json/peliculas.json";
+import Gallery from "../components/Gallery";
 
 export const TituloContainer = styled.div`
     padding: 30px 20px 0 20px;
     max-width: var(--max-width-primary);
     margin: 0 auto;
-`
+`;
 
 export const ListaPeliculas = styled.ul`
     display: grid;
@@ -19,11 +20,12 @@ export const ListaPeliculas = styled.ul`
     margin: 0 auto;
     padding: var(--padding-start);
     gap: 10px;
-`
+`;
+
 export const Card = styled.li`
     list-style: none;
 
-    img{
+    img {
         width: 100%;
         display: inline-block;
         aspect-ratio: 14/20;
@@ -31,7 +33,7 @@ export const Card = styled.li`
         cursor: pointer;
     }
 
-    h5{
+    h5 {
         margin-top: 10px;
         display: -webkit-box;
         -webkit-line-clamp: 2;
@@ -39,43 +41,27 @@ export const Card = styled.li`
         overflow: hidden;
         text-overflow: ellipsis;
     }
-`
-
+`;
 
 const Home = () => {
+    return (
+        <>
+            <Gallery/>
+            <TituloContainer>
+                <h2>Todo</h2>
+            </TituloContainer>
+            <ListaPeliculas>
+                {peliculas.map(pelicula => (
+                    <Card key={pelicula.id}>
+                        <Link to={`/pelicula/${pelicula.id}`}>
+                            <img src={pelicula.portada} alt={pelicula.titulo} />
+                        </Link>
+                        <h5 title={pelicula.titulo}>{pelicula.titulo}</h5>
+                    </Card>
+                ))}
+            </ListaPeliculas>
+        </>
+    );
+};
 
-    return (<>
-        <Gallery/>
-        <TituloContainer>
-            <h2>Todo</h2>
-        </TituloContainer>
-        <ListaPeliculas>
-            {
-                peliculas.map(pelicula => <Card key={pelicula.id}>
-                    <a href={pelicula.video}>
-                        <img src={pelicula.portada} alt={pelicula.titulo} />
-                    </a>
-                    <h5 title={pelicula.titulo}>{pelicula.titulo}</h5>
-                    <dialog id="favDialog">
-                        <form method="dialog">
-                            <section>
-                            <p>
-                               hola
-                            </p>
-                            </section>
-                            <menu>
-                            <button id="cancel" type="reset">Cancel</button>
-                            <button type="submit">Confirm</button>
-                            </menu>
-                        </form>
-                        </dialog>
-                </Card>
-                
-                )
-            }
-        </ListaPeliculas>
-        
-    </>)
-}
-
-export default Home
+export default Home;
